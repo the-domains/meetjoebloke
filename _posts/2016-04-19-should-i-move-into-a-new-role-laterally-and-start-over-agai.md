@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "\"Should I move into a new role laterally and start over again or wait in this role to get promoted?\" sounds familiar? I heard this question for the third time in the last 2 months. How many times have you asked that question to your manager. Every time I came across a situation like that I asked myself, 'What do you want to do with your life (or career)? Do you want to be a deep sea diver or a long distance swimmer?\" While the decision is different for each individual, here are some points to think about -"
-datePublished: '2016-04-19T20:14:41.594Z'
-dateModified: '2016-04-19T20:14:04.697Z'
+datePublished: '2016-04-19T20:17:58.397Z'
+dateModified: '2016-04-19T20:15:47.538Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-should-i-move-into-a-new-role-laterally-and-start-over-agai.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-should-i-move-into-a-new-role-laterally-and-start-over-agai.md
-published: true
 url: should-i-move-into-a-new-role-laterally-and-start-over-agai/index.html
 _type: Article
 
